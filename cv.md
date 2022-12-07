@@ -9,16 +9,18 @@
 * Telegram: @Jack_McClain
 * Discord: evgen7794
 * GitHub: evgen7794
+* Codewars: evgen7794
 
 ## About Me ##
+After graduating from university with a degree in law, I decided to discover something new. I have been programming for about 8 months. I chose the direction of frontend development. Having received the initial knowledge of HTML, CSS and JS, I began to actively learn React. 
+I try to constantly develop my programming skills, although this is very difficult for me.
 
 
 ## Skils ## 
 ---
 * HTML, CSS 
 * JS, React
-* Figma 
-* 
+* Figma
 
 ## Code example ##
 _____ 
