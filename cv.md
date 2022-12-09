@@ -40,8 +40,8 @@ const rps = (p1, p2) => {
 };
 ```
 ## Education ## 
-* JS Manual on (learn.javascript)[learn.javascript.ru] (in progress...)
-* Documets (React)[ru.reactjs.org] (in progress...)
+* JS Manual on [learn.javascript](learn.javascript.ru) (in progress...)
+* Documets [React](ru.reactjs.org) (in progress...)
 * Courses in Udemy
 
 ## Languages ##
