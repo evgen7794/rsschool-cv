@@ -1,7 +1,6 @@
 # **Gritsenko Evgeny** #
 
 ## Junior Frontend Developer ##
-----
 
 ## My Contacts ## 
 * E-mail: gritsenko7794@gmail.com
@@ -17,7 +16,7 @@ I try to constantly develop my programming skills, although this is very difficu
 
 
 ## Skils ## 
----
+
 * HTML, CSS 
 * JS, React
 * Figma
@@ -41,8 +40,8 @@ const rps = (p1, p2) => {
 };
 ```
 ## Education ## 
-* JS Manual on learn.javascript.ru (in progress...)
-* React Manual on ru.reactjs.org (in progress...)
+* JS Manual on (learn.javascript)[learn.javascript.ru] (in progress...)
+* Documets (React)[ru.reactjs.org] (in progress...)
 * Courses in Udemy
 
 ## Languages ##
