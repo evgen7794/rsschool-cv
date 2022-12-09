@@ -41,8 +41,8 @@ const rps = (p1, p2) => {
 };
 ```
 ## Education ## 
-* JS Manual [https://learn.javascript.ru/](JavaScript) (in progress...)
-* React [https://ru.reactjs.org/docs/getting-started.html]() (in progress...)
+* JS Manual on learn.javascript.ru (in progress...)
+* React Manual on ru.reactjs.org (in progress...)
 * Courses in Udemy
 
 ## Languages ##
